@@ -150,13 +150,6 @@ Also Worked With:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manvitha236&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -175,7 +168,7 @@ Also Worked With:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Manvitha236&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
