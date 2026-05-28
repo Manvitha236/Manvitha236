@@ -124,13 +124,14 @@ Also Worked With:
 
 
 
-# 📜 Certifications
+# 📜 Certifications & Programs
 
-- DSA in Python – Udemy
-- SQL Certification – HackerRank
-- Data Science & ML Capstone – edX
-- Google Cloud Generative AI Virtual Program
-- Infosys Springboard – Pragati Path to Future
+✅ Google Cloud Generative AI Virtual Program  
+✅ Infosys Springboard – Pragati Path to Future  
+✅ DSA in Python – Udemy  
+✅ SQL Certification – HackerRank  
+✅ Data Science & ML Capstone – edX
+
 
 ---
 
