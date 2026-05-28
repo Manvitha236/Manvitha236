@@ -73,62 +73,56 @@ Also Worked With:
 
 ---
 
-# 💼 Experience
+# 🏆 Achievements
 
-## 🏢 Forsys Software India Pvt. Ltd.
-### Trainee – Associate Software Engineer
+<div align="center">
 
-- Worked on Salesforce Admin & Developer tasks
-- Hands-on experience with Conga CPQ and CLM
-- Built CRM-based business automation workflows
+| 🏅 Achievement | 🎯 Recognition |
+|---|---|
+| 🥇 **1st Prize – e-Yantra Robotics Competition** | Krishi CoBot Theme by IIT Bombay – 2026 |
+| 🥉 **3rd Prize – NXP AIM Robotics Competition** | Grand Finale by NXP Semiconductors – 2025 |
+| 🏆 **Regional Finale Winner** | NXP AIM Robotics Competition – 2025 |
+| 📘 **Top 1% in NPTEL Cloud Computing** | National Level Recognition |
+| 🤖 **Reached Task 4 – e-Yantra Logistic CoBot** | IIT Bombay – 2024 |
 
----
-
-## 🧠 IIIT Kottayam – Machine Learning Internship
-
-- Developed REF AI using Explainable AI techniques
-- Worked with Grad-CAM and Fairness tools
-- Integrated blockchain concepts for trustworthy AI systems
+</div>
 
 ---
 
-## 🌐 NPTEL IIT Ropar – MERN Stack Internship
-
-- Co-developed the Dopamine Driving Dashboard
-- Integrated gamified learning modules
-- Built streak tracking, leaderboards & analytics systems
-
----
 
 # 🚀 Featured Projects
 
 ## 🤖 Intelligent Gesture-Based Human Computer Interaction System
 
-- Real-time hand gesture recognition system
-- Built using OpenCV, Python & Machine Learning
-- Enabled touchless computer interaction using gestures
+✨ Real-time touchless computer control system using hand gestures
+
+### 🔹 Features
+- Hand gesture recognition using OpenCV
+- Real-time tracking and contour detection
+- Cursor movement and click event automation
+- Optimized for low latency interaction
+
+### 🛠️ Tech Used
+`Python` `OpenCV` `Machine Learning`
 
 ---
 
 ## 📧 IntelliDesk – AI Customer Support Automation
 
-- AI-powered email support assistant
-- Built using FastAPI, React (Vite), SQLite & IMAP
-- Implemented sentiment analysis for prioritizing urgent queries
-- Reduced initial response time by 40%
+✨ AI-powered support assistant for automating customer workflows
+
+### 🔹 Features
+- Real-time email ingestion using IMAP
+- Sentiment analysis for urgent query prioritization
+- AI-generated responses
+- Interactive dashboard for ticket management
+
+### 🛠️ Tech Used
+`Python` `FastAPI` `React` `SQLite` `OpenRouter`
 
 ---
 
 
-# 🏆 Achievements
-
-🥇 1st Prize – e-Yantra Robotics Competition (Krishi CoBot Theme) – IIT Bombay  
-🥉 3rd Prize – Grand Finale, NXP AIM Robotics Competition  
-🏅 Regional Finale Winner – NXP AIM Robotics Competition  
-📘 Top 1% in NPTEL Cloud Computing  
-🤖 Reached Task 4 in e-Yantra Logistic CoBot Theme
-
----
 
 # 📜 Certifications
 
